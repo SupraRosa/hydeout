@@ -4,8 +4,8 @@ highlighter:      rouge
 
 # Setup
 title:            Supra Rosa
-tagline:          'A Jekyll theme'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
+tagline:          'Thoughts above the rose.'
+description:      'A collection of thoughts and computational essays.'
 url:              https://suprarosa.github.io/
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
